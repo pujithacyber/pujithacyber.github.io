@@ -211,6 +211,7 @@
 <center>
   <img src="images/170.png" alt="steps for hacking" width="600">
 </center>
+
 ---
 
 ## 7. OSINT Tools & Databases
